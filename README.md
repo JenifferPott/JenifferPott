@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil de Jeniffer Pott 🤗
+## Welcome! 🤗
+## 
+## Brazil | Cybersecurity Student | Information Security | Technology | English B2 Student | Seeking Opportunity in IT
 
  <div>
    <a href="https://github.com/JenifferPott">
