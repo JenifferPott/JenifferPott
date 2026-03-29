@@ -1,25 +1,48 @@
-## Welcome! 🤗
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=601F9E&center=true&vCenter=true&width=435&lines=Jeniffer+Pott;Saipher;Cybersecurity" alt="Typing SVG" /></a>
+</p>
 
-## Brazil | Cybersecurity Student | Information Security | Technology | English B2 Student | Seeking Opportunity in IT
+<!-- Bio -->
+<table width="100%" style="border: none;">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 20px;">
+      <p align="justify">
+        <b>Hello there! 🤗</b> I'm <b>Jeniffer Pott</b> aka <b>Saipher</b>. I'm beginning my journey in cybersecurity, focused on building strong foundations and growing in information security. 
+      </p>
+    </td>
+    <td align="right" style="vertical-align: middle; width: 300px;">
+      <img src="https://i.makeagif.com/media/2-20-2015/nc8-Jm.gif" width="300" alt="Coding animation">
+    </td>
+  </tr>
+</table>
 
- <div>
-   <a href="https://github.com/JenifferPott">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JenifferPott&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenifferPott&layout=compact&langs_count=6&theme=midnight-purple"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
- 
-<br>
- 
-### For contact information and more details, see the links below!
- 
-<div> 
-  <a href="https://instagram.com/jenifferpott_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jeniffer.pott070@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jenifferpott" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<!-- Phrase -->
+<p align="center" style="margin-top: 15px; font-size: 15px;">
+  <b><i>Ephesians 6:17 ❝ Take ... the sword of the Spirit, which is the word of God;❞</i></b>
+</p>
+
+<hr>
+
+<!-- Badge -->
+<p align="center">
+  <a href="https://saipher-lab.github.io">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JENIFFERPOTT%20%7C%20SAIPHER-%23360f5a?style=for-the-badge">
+
+  </a>
+</p>
+
+<p><b>Skills</b></p>
+
+<p><b>Projects</b></p>
+
+<hr>
+
+<!-- Connections -->
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjenifferpott%2F"></a>
+  <a href="mailto:jeniffer.pott070@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=flat&link=mailto%3Ajenifferpott070%40gmail.com"></a>
+  <a href="https://www.instagram.com/jenifferpott_"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E1306C?style=flat&link=https%3A%2F%2Fwww.instagram.com%2Fjenifferpott_%23"></a>
+</p>
+
