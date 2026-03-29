@@ -46,5 +46,9 @@
   <a href="https://www.instagram.com/jenifferpott_"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E1306C?style=flat&link=https%3A%2F%2Fwww.instagram.com%2Fjenifferpott_%23"></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com" alt="Snake Game">
+</p>
+
 <br>
   <p align="center">Created with 💜 by <a href="https://github.com/saipher-lab">Saipher</a></p>
