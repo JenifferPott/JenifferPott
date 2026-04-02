@@ -47,7 +47,7 @@
 </p>
 
 <!-- Snake Game -->
-![Snake animation](https://github.com)
+![snake gif](https://github.com/SAIPHER-LAB/SAIPHER-LAB/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
@@ -55,5 +55,6 @@
   <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
 </picture>
 
+<!-- End -->
 <br>
   <p align="center">Created with 💜 by <a href="https://github.com/saipher-lab">Saipher</a></p>
