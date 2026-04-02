@@ -33,8 +33,10 @@
 </p>
 
 <p><b>Skills</b></p>
+<p><i>Coming soon</i></p>
 
 <p><b>Projects</b></p>
+<p><i>Coming soon</i></p>
 
 <hr>
 
