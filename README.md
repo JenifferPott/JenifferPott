@@ -32,6 +32,7 @@
   </a>
 </p>
 
+<!-- Skills & Projects -->
 <p><b>Skills</b></p>
 <p><i>Coming soon</i></p>
 
